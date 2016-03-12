@@ -1,0 +1,20 @@
+From a679b6e1ef182054639717e58ece0d8fb1490c93 Mon Sep 17 00:00:00 2001
+From: jyothsna1234 <test@jyothsna505@gmail.com>
+Date: Sat, 12 Mar 2016 15:56:07 +0530
+Subject: [PATCH 2/3] c1 from master
+
+---
+ c1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 c1.txt
+
+diff --git a/c1.txt b/c1.txt
+new file mode 100644
+index 0000000..fc1d2b1
+--- /dev/null
++++ b/c1.txt
+@@ -0,0 +1 @@
++c1 in master
+-- 
+2.7.2.windows.1
+
